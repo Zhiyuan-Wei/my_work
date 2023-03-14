@@ -7,3 +7,5 @@ Cryptocurrencies are getting popular and the trading amount is rising in the las
 We decided to use LPPLS (Log Periodic Power Law Singularity) model, SVM (Support Vector Machine) model and LSTM (Long Short-Term Memory) model to predict the historical bubbles. Lastly, we will compare and evaluate the performance of each model.
 
 With the paper, we try to apply different models to predict bubbles. We hope to make contribution to the field with different approaches, and further provide inspiration and novelty to market participants and future researchers.
+
+Responsibility: I am responsible for the SVM part.
